@@ -1,4 +1,5 @@
 
+
 # rnavat
 # rnav waypoints austria, do not use for real navigation
 Download the files rnavat.js and routes.js
@@ -15,3 +16,6 @@ javascript:(function(){document.body.appendChild(document.createElement('script'
 
 If you copy / paste then be aware that it begins with
 javascript:
+
+
+If you prefer, make a bookmarklet of it.
