@@ -1,10 +1,8 @@
-
-
 # rnavat
 # RNAV waypoints Austria, do not use for real navigation or real flight plans !!!
 Download the files rnavat.js and routes.js
 Edit the file rnavat.js and replace in line 3 the text
- js.src = "https://your_https_path/routes.js";
+js.src = "https://your_https_path/routes.js";
 by your own https-path where your routes.js will reside.
 Upload the files to your https-site
 
