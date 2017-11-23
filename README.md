@@ -1,5 +1,9 @@
 # rnavat
 # RNAV waypoints Austria, do not use for real navigation or real flight plans !!!
+This is a child of
+https://github.com/microtony/fr24-overlay-vhhk
+
+
 Download the files rnavat.js and routes.js
 Edit the file rnavat.js and replace the text in line 3
 
