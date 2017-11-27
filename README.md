@@ -1,5 +1,8 @@
 # rnavat
-# RNAV waypoints Austria, do not use for real navigation or real flight plans !!!
+# Show RNAV waypoints of Austriad in flightradar24
+# Do not use for real navigation !!!
+
+
 This is a child of
 https://github.com/microtony/fr24-overlay-vhhk
 
