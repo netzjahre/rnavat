@@ -1,5 +1,5 @@
 # rnavat
-# Show RNAV waypoints of Austriad in flightradar24
+# Show RNAV waypoints of Austria in flightradar24
 # Do not use for real navigation !!!
 
 
