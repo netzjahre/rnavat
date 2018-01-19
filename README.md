@@ -26,3 +26,8 @@ javascript:
 
 
 If you prefer, make a bookmarklet of it.
+
+
+
+Example:
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://netzjahre.com/rnav/rnavat.js';})();
