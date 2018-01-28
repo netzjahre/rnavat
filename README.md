@@ -19,7 +19,7 @@ Upload the files to your prefered directory in your https-site
 Open https://flightradar24.com in your browser an zoom in Austria in Europe (e.g. Vienna airport)
 Add the following text into the URL-field of the browser:
 
-javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://your_https_path/rnavat.js';})();
+javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://netzjahre.com/rnav/rnavat.js";})();
 
 If you copy / paste then be aware that it begins with
 javascript:
