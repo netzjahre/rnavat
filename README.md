@@ -7,16 +7,11 @@ This is a child of
 https://github.com/microtony/fr24-overlay-vhhk
 
 
-Download the files rnavat.js and routes.js
-Edit the file rnavat.js and replace the text in line 3
-
-js.src = "https://your_https_path/routes.js";
-
-by your own https-path where your routes.js will reside.
-Upload the files to your prefered directory in your https-site
+Download the file routes.js
+Upload the file to your prefered directory in your https-site (it must be https !!!)
 
 
-Open https://flightradar24.com in your browser an zoom in Austria in Europe (e.g. Vienna airport)
+Open https://flightradar24.com in your browser and zoom in Austria in Europe (e.g. Vienna airport)
 Add the following text into the URL-field of the browser:
 
 javascript:(function(){document.body.appendChild(document.createElement("script")).src="https://netzjahre.com/rnav/routes.js";})();
