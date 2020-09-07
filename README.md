@@ -1,6 +1,6 @@
-# rnavat
-# Shows RNAV waypoints of Austria in flightradar24
+Shows RNAV waypoints of Austria in flightradar24
 # Do not use for real navigation !!!
+
 
 
 This is a child of
